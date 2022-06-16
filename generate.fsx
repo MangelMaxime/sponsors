@@ -57,10 +57,8 @@ let sponsorsInformation =
                 Person "David Dawkins"
                 Person "Vagif Abilov"
                 Person "Mickael Metesreau"
-                Company {
-                    Url = "https://www.compositional-it.com/"
-                    LogoPath = "./logos/compositional-it.png"
-                }
+                Person "DP123"
+                Person "Michael Fremont"
             ]
         TeaSupporters =
             [
