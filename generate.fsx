@@ -63,6 +63,7 @@ let sponsorsInformation =
         TeaSupporters =
             [
                 Person "Florian Verdonck"
+                Person "Jan Bizub"
             ]
         PaypalDonors =
             [
@@ -74,7 +75,7 @@ let sponsorsInformation =
 
 // Allow us to have syntax highlighting thanks to VS Code extension
 // https://marketplace.visualstudio.com/items?itemName=alfonsogarciacaro.vscode-template-fsharp-highlight
-// We are generated SVG, but the extension is made for HTML orginally
+// We are generating SVG, but the extension is made for HTML orginally
 // The name of the function doesn't matter as this function does nothing
 let inline html s = s
 
