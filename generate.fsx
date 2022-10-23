@@ -64,6 +64,8 @@ let sponsorsInformation =
             [
                 Person "Florian Verdonck"
                 Person "Jan Bizub"
+                Person "Maximilian Wilson"
+                Person "Onur Gumus"
             ]
         PaypalDonors =
             [
