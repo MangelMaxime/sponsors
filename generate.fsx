@@ -57,7 +57,7 @@ let sponsorsInformation =
                 Person "David Dawkins"
                 Person "Vagif Abilov"
                 Person "Mickael Metesreau"
-                Person "DP123"
+                Person "Philip Nguyen"
                 Person "Michael Fremont"
             ]
         TeaSupporters =
