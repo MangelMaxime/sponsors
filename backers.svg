@@ -1,5 +1,5 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="790">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="820">
     <style>
         svg {
             background-color: white;
@@ -47,21 +47,29 @@
                         </text>
                     
 
+                        <text
+                            x="482"
+                            y="230"
+                            class="sponsor-name">
+                            Roland Andrag
+                        </text>
+                    
+
                         <a
                             xlink:href="https://www.compositional-it.com/">
                             <image
                                 x="50"
-                                y="250"
+                                y="280"
                                 width="175"
                                 height="70"
                                 xlink:href="data:image/png;base64,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"/>
                         </a>
                     
-<text x="400" y="370" text-anchor="middle" class="section-header">Backers</text>
+<text x="400" y="400" text-anchor="middle" class="section-header">Backers</text>
 
                         <text
                             x="150"
-                            y="420"
+                            y="450"
                             class="sponsor-name">
                             Paweł Stadnicki
                         </text>
@@ -69,7 +77,7 @@
 
                         <text
                             x="316"
-                            y="420"
+                            y="450"
                             class="sponsor-name">
                             David Dawkins
                         </text>
@@ -77,7 +85,7 @@
 
                         <text
                             x="482"
-                            y="420"
+                            y="450"
                             class="sponsor-name">
                             Vagif Abilov
                         </text>
@@ -85,7 +93,7 @@
 
                         <text
                             x="150"
-                            y="450"
+                            y="480"
                             class="sponsor-name">
                             Mickael Metesreau
                         </text>
@@ -93,7 +101,7 @@
 
                         <text
                             x="316"
-                            y="450"
+                            y="480"
                             class="sponsor-name">
                             Philip Nguyen
                         </text>
@@ -101,17 +109,17 @@
 
                         <text
                             x="482"
-                            y="450"
+                            y="480"
                             class="sponsor-name">
                             Michael Fremont
                         </text>
                     
 
-<text x="400" y="530" text-anchor="middle" class="section-header">Tea supporters</text>
+<text x="400" y="560" text-anchor="middle" class="section-header">Tea supporters</text>
 
                         <text
                             x="150"
-                            y="580"
+                            y="610"
                             class="sponsor-name">
                             Florian Verdonck
                         </text>
@@ -119,7 +127,7 @@
 
                         <text
                             x="316"
-                            y="580"
+                            y="610"
                             class="sponsor-name">
                             Jan Bizub
                         </text>
@@ -127,7 +135,7 @@
 
                         <text
                             x="482"
-                            y="580"
+                            y="610"
                             class="sponsor-name">
                             Maximilian Wilson
                         </text>
@@ -135,7 +143,7 @@
 
                         <text
                             x="150"
-                            y="610"
+                            y="640"
                             class="sponsor-name">
                             Onur Gumus
                         </text>
@@ -143,17 +151,17 @@
 
                         <text
                             x="316"
-                            y="610"
+                            y="640"
                             class="sponsor-name">
                             Seref Arikan
                         </text>
                     
 
-<text x="400" y="660" text-anchor="middle" class="section-header">Paypal donors</text>
+<text x="400" y="690" text-anchor="middle" class="section-header">Paypal donors</text>
 
                         <text
                             x="150"
-                            y="710"
+                            y="740"
                             class="sponsor-name">
                             George Danila
                         </text>
@@ -161,7 +169,7 @@
 
                         <text
                             x="316"
-                            y="710"
+                            y="740"
                             class="sponsor-name">
                             Marek Simander
                         </text>
@@ -169,7 +177,7 @@
 
                         <text
                             x="482"
-                            y="710"
+                            y="740"
                             class="sponsor-name">
                             Tomas Leko
                         </text>
