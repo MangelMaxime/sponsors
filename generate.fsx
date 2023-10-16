@@ -50,6 +50,7 @@ let sponsorsInformation =
                     Url = "https://www.compositional-it.com/"
                     LogoPath = "./logos/compositional-it.png"
                 }
+                Person "Roland Andrag"
             ]
         Backers =
             [
