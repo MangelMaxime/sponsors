@@ -60,6 +60,7 @@ let sponsorsInformation =
                 Person "Mickael Metesreau"
                 Person "Philip Nguyen"
                 Person "Michael Fremont"
+                Person "Eric Strong"
             ]
         TeaSupporters =
             [
