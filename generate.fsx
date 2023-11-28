@@ -69,6 +69,7 @@ let sponsorsInformation =
                 Person "Maximilian Wilson"
                 Person "Onur Gumus"
                 Person "Seref Arikan"
+                Person "Mohamed Amine Mejaouel"
             ]
         PaypalDonors =
             [
