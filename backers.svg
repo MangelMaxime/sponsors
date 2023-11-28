@@ -1,5 +1,5 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="820">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="850">
     <style>
         svg {
             background-color: white;
@@ -165,11 +165,19 @@
                         </text>
                     
 
-<text x="400" y="690" text-anchor="middle" class="section-header">Paypal donors</text>
+                        <text
+                            x="482"
+                            y="640"
+                            class="sponsor-name">
+                            Mohamed Amine Mejaouel
+                        </text>
+                    
+
+<text x="400" y="720" text-anchor="middle" class="section-header">Paypal donors</text>
 
                         <text
                             x="150"
-                            y="740"
+                            y="770"
                             class="sponsor-name">
                             George Danila
                         </text>
@@ -177,7 +185,7 @@
 
                         <text
                             x="316"
-                            y="740"
+                            y="770"
                             class="sponsor-name">
                             Marek Simander
                         </text>
@@ -185,7 +193,7 @@
 
                         <text
                             x="482"
-                            y="740"
+                            y="770"
                             class="sponsor-name">
                             Tomas Leko
                         </text>
