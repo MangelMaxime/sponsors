@@ -41,6 +41,10 @@ let sponsorsInformation =
         Sponsors =
             [
                 Person "Joh Dokler"
+                Company {
+                    Url = "https://www.lazul.ai/"
+                    LogoPath = "./logos/lazul-ai.png"
+                }
             ]
         GenerousBackers =
             [
