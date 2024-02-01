@@ -1,5 +1,5 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="950">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="920">
     <style>
         svg {
             background-color: white;
@@ -133,6 +133,14 @@
                         </text>
                     
 
+                        <text
+                            x="316"
+                            y="610"
+                            class="sponsor-name">
+                            Onur Gumus
+                        </text>
+                    
+
 <text x="400" y="660" text-anchor="middle" class="section-header">Tea supporters</text>
 
                         <text
@@ -163,7 +171,7 @@
                             x="150"
                             y="740"
                             class="sponsor-name">
-                            Onur Gumus
+                            Seref Arikan
                         </text>
                     
 
@@ -171,23 +179,15 @@
                             x="316"
                             y="740"
                             class="sponsor-name">
-                            Seref Arikan
-                        </text>
-                    
-
-                        <text
-                            x="482"
-                            y="740"
-                            class="sponsor-name">
                             Mohamed Amine Mejaouel
                         </text>
                     
 
-<text x="400" y="820" text-anchor="middle" class="section-header">Paypal donors</text>
+<text x="400" y="790" text-anchor="middle" class="section-header">Paypal donors</text>
 
                         <text
                             x="150"
-                            y="870"
+                            y="840"
                             class="sponsor-name">
                             George Danila
                         </text>
@@ -195,7 +195,7 @@
 
                         <text
                             x="316"
-                            y="870"
+                            y="840"
                             class="sponsor-name">
                             Marek Simander
                         </text>
@@ -203,7 +203,7 @@
 
                         <text
                             x="482"
-                            y="870"
+                            y="840"
                             class="sponsor-name">
                             Tomas Leko
                         </text>
