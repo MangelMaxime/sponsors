@@ -65,13 +65,13 @@ let sponsorsInformation =
                 Person "Philip Nguyen"
                 Person "Michael Fremont"
                 Person "Eric Strong"
+                Person "Onur Gumus"
             ]
         TeaSupporters =
             [
                 Person "Florian Verdonck"
                 Person "Jan Bizub"
                 Person "Maximilian Wilson"
-                Person "Onur Gumus"
                 Person "Seref Arikan"
                 Person "Mohamed Amine Mejaouel"
             ]
