@@ -188,6 +188,7 @@ module Common =
 
                     html $"""
                         <a
+                            target="_blank"
                             xlink:href="{company.Url}">
                             <image
                                 x="{x}"
