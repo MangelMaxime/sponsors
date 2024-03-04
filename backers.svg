@@ -1,5 +1,5 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="830">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="610">
     <style>
         svg {
             background-color: white;
@@ -29,6 +29,14 @@
                         </text>
                     
 
+                        <text
+                            x="316"
+                            y="130"
+                            class="sponsor-name">
+                            Roland Andrag
+                        </text>
+                    
+
                         <a
                             xlink:href="https://www.compositional-it.com/">
                             <image
@@ -52,67 +60,20 @@
                     
 <text x="400" y="280" text-anchor="middle" class="section-header">Generous backers</text>
 
-                        <text
-                            x="150"
-                            y="330"
-                            class="sponsor-name">
-                            My parents
-                        </text>
-                    
 
-                        <text
-                            x="316"
-                            y="330"
-                            class="sponsor-name">
-                            TheWhitetigle
-                        </text>
-                    
-
-                        <text
-                            x="482"
-                            y="330"
-                            class="sponsor-name">
-                            Roland Andrag
-                        </text>
-                    
-
-<text x="400" y="410" text-anchor="middle" class="section-header">Backers</text>
+<text x="400" y="380" text-anchor="middle" class="section-header">Backers</text>
 
                         <text
                             x="150"
-                            y="460"
-                            class="sponsor-name">
-                            Paweł Stadnicki
-                        </text>
-                    
-
-                        <text
-                            x="316"
-                            y="460"
+                            y="430"
                             class="sponsor-name">
                             David Dawkins
                         </text>
                     
 
                         <text
-                            x="482"
-                            y="460"
-                            class="sponsor-name">
-                            Vagif Abilov
-                        </text>
-                    
-
-                        <text
-                            x="150"
-                            y="490"
-                            class="sponsor-name">
-                            Mickael Metesreau
-                        </text>
-                    
-
-                        <text
                             x="316"
-                            y="490"
+                            y="430"
                             class="sponsor-name">
                             Philip Nguyen
                         </text>
@@ -120,33 +81,33 @@
 
                         <text
                             x="482"
-                            y="490"
-                            class="sponsor-name">
-                            Michael Fremont
-                        </text>
-                    
-
-                        <text
-                            x="150"
-                            y="520"
+                            y="430"
                             class="sponsor-name">
                             Eric Strong
                         </text>
                     
 
                         <text
-                            x="316"
-                            y="520"
+                            x="150"
+                            y="460"
                             class="sponsor-name">
                             Onur Gumus
                         </text>
                     
 
-<text x="400" y="570" text-anchor="middle" class="section-header">Tea supporters</text>
+                        <text
+                            x="316"
+                            y="460"
+                            class="sponsor-name">
+                            Vagif Abilov
+                        </text>
+                    
+
+<text x="400" y="510" text-anchor="middle" class="section-header">Tea supporters</text>
 
                         <text
                             x="150"
-                            y="620"
+                            y="560"
                             class="sponsor-name">
                             Florian Verdonck
                         </text>
@@ -154,59 +115,9 @@
 
                         <text
                             x="316"
-                            y="620"
-                            class="sponsor-name">
-                            Jan Bizub
-                        </text>
-                    
-
-                        <text
-                            x="482"
-                            y="620"
-                            class="sponsor-name">
-                            Maximilian Wilson
-                        </text>
-                    
-
-                        <text
-                            x="150"
-                            y="650"
-                            class="sponsor-name">
-                            Seref Arikan
-                        </text>
-                    
-
-                        <text
-                            x="316"
-                            y="650"
+                            y="560"
                             class="sponsor-name">
                             Mohamed Amine Mejaouel
-                        </text>
-                    
-
-<text x="400" y="700" text-anchor="middle" class="section-header">Paypal donors</text>
-
-                        <text
-                            x="150"
-                            y="750"
-                            class="sponsor-name">
-                            George Danila
-                        </text>
-                    
-
-                        <text
-                            x="316"
-                            y="750"
-                            class="sponsor-name">
-                            Marek Simander
-                        </text>
-                    
-
-                        <text
-                            x="482"
-                            y="750"
-                            class="sponsor-name">
-                            Tomas Leko
                         </text>
                     
 

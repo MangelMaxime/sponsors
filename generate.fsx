@@ -18,7 +18,6 @@ type Information =
         GenerousBackers : SponsorElement list
         Backers : SponsorElement list
         TeaSupporters : SponsorElement list
-        PaypalDonors : SponsorElement list
     }
 
 [<Literal>]
@@ -66,12 +65,6 @@ let sponsorsInformation =
             [
                 Person "Florian Verdonck"
                 Person "Mohamed Amine Mejaouel"
-            ]
-        PaypalDonors =
-            [
-                Person "George Danila"
-                Person "Marek Simander"
-                Person "Tomas Leko"
             ]
     }
 
@@ -365,22 +358,6 @@ Common.renderSection
         Y = y
         Title = "Tea supporters"
         Elements = sponsorsInformation.TeaSupporters
-        PersonPerRow = 3
-        PersonTablePageMargin = 150
-        // No company logo here
-        CompanyPerRow = 999999
-        CompanyTablePageMargin = 0
-        LogoWidth = 0
-        LogoHeight = 0
-    |}
-
-
-Common.renderSection
-    {|
-        Builder = svgBuilder
-        Y = y
-        Title = "Paypal donors"
-        Elements = sponsorsInformation.PaypalDonors
         PersonPerRow = 3
         PersonTablePageMargin = 150
         // No company logo here
