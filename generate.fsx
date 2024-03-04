@@ -38,9 +38,10 @@ let MARGIN_BETWEEN_TABLE_ROWS = 30
 
 let sponsorsInformation =
     {
-        Sponsors =
+        Sponsors = // 50€ or more
             [
                 Person "Joh Dokler"
+                Person "Roland Andrag"
                 Company {
                     Url = "https://www.compositional-it.com/"
                     LogoPath = "./logos/compositional-it.png"
@@ -50,29 +51,20 @@ let sponsorsInformation =
                     LogoPath = "./logos/lazul-ai.png"
                 }
             ]
-        GenerousBackers =
+        GenerousBackers = // 25€ or more
             [
-                Person "My parents"
-                Person "TheWhitetigle"
-                Person "Roland Andrag"
             ]
-        Backers =
+        Backers = // 10€ or more
             [
-                Person "Paweł Stadnicki"
                 Person "David Dawkins"
-                Person "Vagif Abilov"
-                Person "Mickael Metesreau"
                 Person "Philip Nguyen"
-                Person "Michael Fremont"
                 Person "Eric Strong"
                 Person "Onur Gumus"
+                Person "Vagif Abilov"
             ]
-        TeaSupporters =
+        TeaSupporters = // 5€ or more
             [
                 Person "Florian Verdonck"
-                Person "Jan Bizub"
-                Person "Maximilian Wilson"
-                Person "Seref Arikan"
                 Person "Mohamed Amine Mejaouel"
             ]
         PaypalDonors =
