@@ -42,6 +42,10 @@ let sponsorsInformation =
             [
                 Person "Joh Dokler"
                 Company {
+                    Url = "https://www.compositional-it.com/"
+                    LogoPath = "./logos/compositional-it.png"
+                }
+                Company {
                     Url = "https://www.lazul.ai/"
                     LogoPath = "./logos/lazul-ai.png"
                 }
@@ -50,10 +54,6 @@ let sponsorsInformation =
             [
                 Person "My parents"
                 Person "TheWhitetigle"
-                Company {
-                    Url = "https://www.compositional-it.com/"
-                    LogoPath = "./logos/compositional-it.png"
-                }
                 Person "Roland Andrag"
             ]
         Backers =
