@@ -42,8 +42,8 @@ let sponsorsInformation =
                 Person "Joh Dokler"
                 Person "Roland Andrag"
                 Company {
-                    Url = "https://www.compositional-it.com/"
-                    LogoPath = "./logos/compositional-it.png"
+                    Url = "https://hackandcraft.com/"
+                    LogoPath = "./logos/hack-and-craft.png"
                 }
                 Company {
                     Url = "https://www.lazul.ai/"
@@ -58,13 +58,10 @@ let sponsorsInformation =
                 Person "David Dawkins"
                 Person "Philip Nguyen"
                 Person "Eric Strong"
-                Person "Onur Gumus"
                 Person "Vagif Abilov"
             ]
         TeaSupporters = // 5€ or more
             [
-                Person "Florian Verdonck"
-                Person "Mohamed Amine Mejaouel"
             ]
     }
 
